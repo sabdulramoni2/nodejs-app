@@ -2,3 +2,4 @@ Creating a project locally and pushing to git
 Added inforamation to file to use for "Rebase
 Added info locally 
 Information
+Rebase demo
