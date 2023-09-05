@@ -4,3 +4,5 @@ Added info locally
 Information
 Added information to file again
 Rebase demo
+Update the test.txt file on feature/database-connection branch
+Another information for the merge request excercise
