@@ -3,6 +3,6 @@ Added inforamation to file to use for "Rebase
 Added info locally 
 Information
 Added information to file again
-Rebase demo
+Rebase demo (Remotely)
 Update the test.txt file on feature/database-connection branch
 Another information for the merge request excercise
