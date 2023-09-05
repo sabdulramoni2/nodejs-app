@@ -1,1 +1,2 @@
 Creating a project locally and pushing to git
+Another Developer edited file Remotely
