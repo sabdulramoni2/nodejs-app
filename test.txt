@@ -7,5 +7,6 @@ Rebase demo (Remotely)
 Update the test.txt file on feature/database-connection branch
 Another information for the merge request excercise
 Made changes locally
+Another changes (Added for undoing commits.)
 Another changes
 New info for git stash
