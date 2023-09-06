@@ -6,3 +6,6 @@ Added information to file again (locally)
 Rebase demo (Remotely)
 Update the test.txt file on feature/database-connection branch
 Another information for the merge request excercise
+Made changes locally
+Another changes
+New info for git stash
