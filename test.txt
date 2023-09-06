@@ -10,3 +10,4 @@ Made changes locally
 Another changes (Added for undoing commits.)
 Another changes
 New info for git stash
+git merge option
